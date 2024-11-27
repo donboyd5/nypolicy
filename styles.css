@@ -1,0 +1,13 @@
+details {
+    margin: 10px 0;
+    font-family: Arial, sans-serif;
+}
+
+summary {
+    cursor: pointer;
+    font-weight: bold;
+}
+
+ul {
+    margin-left: 20px;
+}
